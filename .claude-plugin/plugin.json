@@ -1,0 +1,11 @@
+{
+  "name": "shared-notebook",
+  "displayName": "공유 공책 · Shared Notebook",
+  "version": "0.2.0",
+  "description": "Read and save Markdown memories in your own OneDrive, and reuse them across AI conversations.",
+  "author": {
+    "name": "Jaewon Choi",
+    "email": "forestmoon@gmail.com"
+  },
+  "license": "MIT"
+}
