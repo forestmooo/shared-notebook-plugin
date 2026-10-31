@@ -16,4 +16,4 @@ The service cannot monitor every conversation, access chats that were not suppli
 
 ## Publisher and support
 
-Jaewon Choi · forestmoon@gmail.com. The service is free; third-party account requirements apply. This package is licensed under MIT; this license does not relicense the server repository. Public directory approval is separate from personal installation. This version is being prepared for review and is not an approved directory release.
+Jaewon Choi · forestmoon1977@gmail.com. The service is free; third-party account requirements apply. This package is licensed under MIT; this license does not relicense the server repository. Public directory approval is separate from personal installation. This version is being prepared for review and is not an approved directory release.
