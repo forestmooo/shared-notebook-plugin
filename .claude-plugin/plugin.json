@@ -7,5 +7,7 @@
     "name": "Jaewon Choi",
     "email": "forestmoon@gmail.com"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "icon": "assets/notebook.png",
+  "privacyPolicyUrl": "https://forestmooo.github.io/shared-notebook-plugin/privacy.html"
 }
